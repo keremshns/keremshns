@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerem</h1>
 <h3 align="center">Electronics Engineer with a focus on Machine Learning and Artificial Intelligence</h3>
 
-- 🌱 I’m currently learning **Advanced Techniques on Tensorflow**
-
-- 📫 How to reach me **keremshns1@gmail.com**
+- 📫 How to reach me **keremshns1@gmail.com or kerem.sahin@tum.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
