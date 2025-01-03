@@ -22,17 +22,20 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 Projects at [AI Engineer / CanopyLAB - ganax.com - Pavoreal.ai]:
+<p align="left">
 Note: The source code for these projects is not included due to confidentiality agreements.
 
 canopylab.com:
 
 LLM-Based Chatbot for Automated Qualitative Feedback.
+
 ganax.com:
 
 LLM-Based Chatbot with Integrated Recommender System.
 LLM-Based Sentiment Analysis Model with high accuracy and QWKappa scores.
 LLM-Aided Text Approval/Rejection Model for content moderation in social media.
 LLM-Based Video/Audio Approval/Rejection Model for content moderation.
+
 pavoreal.ai:
 
 Supported an LLM-Based Chatbot with fine-tuning for analyzing and inspecting big data in a Snowflake SQL Database. The system converts text queries to SQL and presents relevant results.
