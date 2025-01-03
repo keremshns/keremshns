@@ -21,6 +21,24 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-00897B?logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
+Projects at [AI Engineer / CanopyLAB - ganax.com - Pavoreal.ai]:
+Note: The source code for these projects is not included due to confidentiality agreements.
+
+canopylab.com:
+
+LLM-Based Chatbot for Automated Qualitative Feedback.
+ganax.com:
+
+LLM-Based Chatbot with Integrated Recommender System.
+LLM-Based Sentiment Analysis Model with high accuracy and QWKappa scores.
+LLM-Aided Text Approval/Rejection Model for content moderation in social media.
+LLM-Based Video/Audio Approval/Rejection Model for content moderation.
+pavoreal.ai:
+
+Supported an LLM-Based Chatbot with fine-tuning for analyzing and inspecting big data in a Snowflake SQL Database. The system converts text queries to SQL and presents relevant results.
+Designed a Neural Network with TensorFlow for Multivariate Time Series Forecasting, achieving high accuracy and low loss. This model can integrate with LLMs for agentic workflows.
+
+
 <!--  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>  -->
