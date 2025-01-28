@@ -23,7 +23,6 @@
 
 Projects at [AI Engineer / CanopyLAB - ganax.com - Pavoreal.ai]:
 <p align="left">
-Note: The source codes for these projects are not included due to confidentiality agreements.
 
 canopylab.com:
 
