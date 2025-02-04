@@ -28,30 +28,34 @@ ganax.com:
 
 • Implemented an LLM-Based Video Approval/Rejection System for Social Media, utilizing frame sampling and
 audio transcription analysis to identify and prevent terms and conditions violations, enhancing platform safety
-standards. (ganax.com)
+standards. 
+
 • Developed and deployed an LLM-Aided Text Approval/Rejection System for Social Media Content Control,
 effectively detecting banned keywords, limiting hashtag misuse, analyzing sentiment, and ensuring compliance with
-platform policies. (ganax.com)
+platform policies. 
+
 • Designed and implemented an LLM-Based Sentiment Analysis system that dynamically switches between finetuned
 and RAG-integrated models, achieving almost 80% accuracy and a 0.70 - 0.75 QWKappa score on real-world data,
-significantly enhancing the content approval/rejection process for social media. (ganax.com)
+significantly enhancing the content approval/rejection process for social media. 
+
 • Created and integrated an LLM-Based Chatbot using Agent Framework to support users with personalized
 recommendations, Q/A, and FAQ tools, improving user engagement metrics on the social media platform.
-(ganax.com)
+
 
 pavoreal.ai:
 
 • Built and optimized a Neural Network with TensorFlow for Multivariate Time Series Forecasting, achieving high
 prediction accuracy and minimal loss, with integration-ready capabilities for agentic workflows powered by LLMs.
-(Pavoreal.AI)
+
+
 • Enhanced an LLM-Based Chatbot through fine-tuning, enabling users to analyze and query Big Data from
 Snowflake (SQL) databases with high query accuracy, converting natural language inputs into SQL commands for
-advanced data retrieval. (Pavoreal.AI)
+advanced data retrieval. 
 
 canopylab.com:
 
 • Developed and deployed an LLM-Based Chatbot using Agent Framework for Automated Qualitative Feedback,
-increasing the efficiency of feedback processing on the e-learning platform. (CanopyLAB)
+increasing the efficiency of feedback processing on the e-learning platform. 
 
 <!--  
 <h3 align="left">Languages and Tools:</h3>
