@@ -21,7 +21,7 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-00897B?logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-Projects at [AI Engineer / CanopyLAB - ganax.com - Pavoreal.ai]:
+AI Engineer / CanopyLAB 
 <p align="left">
 
 // ganax.com:
