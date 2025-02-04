@@ -24,22 +24,34 @@
 Projects at [AI Engineer / CanopyLAB - ganax.com - Pavoreal.ai]:
 <p align="left">
 
-canopylab.com:
-
-LLM-Based Chatbot for Automated Qualitative Feedback.
-
 ganax.com:
 
-LLM-Based Chatbot with Integrated Recommender System.
-LLM-Based Sentiment Analysis Model with high accuracy and QWKappa scores.
-LLM-Aided Text Approval/Rejection Model for content moderation in social media.
-LLM-Based Video/Audio Approval/Rejection Model for content moderation.
+• Implemented an LLM-Based Video Approval/Rejection System for Social Media, utilizing frame sampling and
+audio transcription analysis to identify and prevent terms and conditions violations, enhancing platform safety
+standards. (ganax.com)
+• Developed and deployed an LLM-Aided Text Approval/Rejection System for Social Media Content Control,
+effectively detecting banned keywords, limiting hashtag misuse, analyzing sentiment, and ensuring compliance with
+platform policies. (ganax.com)
+• Designed and implemented an LLM-Based Sentiment Analysis system that dynamically switches between finetuned
+and RAG-integrated models, achieving almost 80% accuracy and a 0.70 - 0.75 QWKappa score on real-world data,
+significantly enhancing the content approval/rejection process for social media. (ganax.com)
+• Created and integrated an LLM-Based Chatbot using Agent Framework to support users with personalized
+recommendations, Q/A, and FAQ tools, improving user engagement metrics on the social media platform.
+(ganax.com)
 
 pavoreal.ai:
 
-Supported an LLM-Based Chatbot with fine-tuning for analyzing and inspecting big data in a Snowflake SQL Database. The system converts text queries to SQL and presents relevant results.
-Designed a Neural Network with TensorFlow for Multivariate Time Series Forecasting, achieving high accuracy and low loss. This model can integrate with LLMs for agentic workflows.
+• Built and optimized a Neural Network with TensorFlow for Multivariate Time Series Forecasting, achieving high
+prediction accuracy and minimal loss, with integration-ready capabilities for agentic workflows powered by LLMs.
+(Pavoreal.AI)
+• Enhanced an LLM-Based Chatbot through fine-tuning, enabling users to analyze and query Big Data from
+Snowflake (SQL) databases with high query accuracy, converting natural language inputs into SQL commands for
+advanced data retrieval. (Pavoreal.AI)
 
+canopylab.com:
+
+• Developed and deployed an LLM-Based Chatbot using Agent Framework for Automated Qualitative Feedback,
+increasing the efficiency of feedback processing on the e-learning platform. (CanopyLAB)
 
 <!--  
 <h3 align="left">Languages and Tools:</h3>
