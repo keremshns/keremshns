@@ -24,7 +24,7 @@
 Projects at [AI Engineer / CanopyLAB - ganax.com - Pavoreal.ai]:
 <p align="left">
 
-ganax.com:
+// ganax.com:
 
 • Implemented an LLM-Based Video Approval/Rejection System for Social Media, utilizing frame sampling and
 audio transcription analysis to identify and prevent terms and conditions violations, enhancing platform safety
@@ -42,7 +42,7 @@ significantly enhancing the content approval/rejection process for social media.
 recommendations, Q/A, and FAQ tools, improving user engagement metrics on the social media platform.
 
 
-pavoreal.ai:
+// pavoreal.ai:
 
 • Built and optimized a Neural Network with TensorFlow for Multivariate Time Series Forecasting, achieving high
 prediction accuracy and minimal loss, with integration-ready capabilities for agentic workflows powered by LLMs.
@@ -52,7 +52,7 @@ prediction accuracy and minimal loss, with integration-ready capabilities for ag
 Snowflake (SQL) databases with high query accuracy, converting natural language inputs into SQL commands for
 advanced data retrieval. 
 
-canopylab.com:
+// canopylab.com:
 
 • Developed and deployed an LLM-Based Chatbot using Agent Framework for Automated Qualitative Feedback,
 increasing the efficiency of feedback processing on the e-learning platform. 
